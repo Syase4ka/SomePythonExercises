@@ -1,8 +1,4 @@
-""" Calculates the day of the week for any given date.
-
-Name: Anastasia Kim
-UPI: akim517
-ID: 6574566
+""" Calculates the day of the week for any given date
 
 """
 
