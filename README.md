@@ -1,3 +1,3 @@
 # SomePythonExercises
-First change
+Here I have some exercises I did in Python 
 
